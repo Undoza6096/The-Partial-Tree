@@ -8,7 +8,7 @@ let modInfo = {
 	discordName: "",
 	discordLink: "",
 	initialStartPoints: new Decimal (1), // Used for hard resets and new players
-	offlineLimit: 2,  // In hours
+	offlineLimit: 8760,  // In hours
 }
 
 // Set your version in num and name
